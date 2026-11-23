@@ -1,6 +1,6 @@
 # Course Management System
 
-A React course management application with a local JSON Server API.
+Using React.js with a local JSON Server API, this is a course management application.
 
 ## Requirements
 
